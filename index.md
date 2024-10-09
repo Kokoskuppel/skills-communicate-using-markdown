@@ -2,7 +2,10 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-```typescript#
+```typescript
+let bosd = true;
+global rmcode = "8008135";
+
 abstract class Wownizer{
   function wow();
 }
